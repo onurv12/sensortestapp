@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sensor Test App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_proximity">Proximity</string>
+    <string name="title_activity_accelerometer">AccelerometerActivity</string>
+    <string name="title_activity_gyroscope">GyroscopeActivity</string>
+    <string name="title_activity_barometer">BarometerActivity</string>
+    <string name="title_activity_ambient_light">AmbientLightActivity</string>
+    <string name="title_activity_rotation">RotationActivity</string>
+</resources>
